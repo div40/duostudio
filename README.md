@@ -1,4 +1,7 @@
-# Modern Web Design
+# Modern Web Design- DuoStudio
+
+![duostudio](https://github.com/div40/duostudio/assets/88618183/94813597-5de3-4091-8db7-a64fa1db2708)
+
 
 Recreated duo-studio website <br/>
 Used: JS, LocomotiveJS, GSAP, ScrollTrigger <br/>
